@@ -1,0 +1,35 @@
+.Navcon{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    background-color:  #39495E;
+}
+.Navbar1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 4.5%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    width: 100%;
+}
+.Search{
+    width: 100%;
+    align-items: center;
+    margin-top: 1.8%;
+    margin-left: 4%;
+}
+.searchBox{
+    width: 185px;
+    border-radius: 7px;
+    border: none;
+}
+.Navbar2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 4.5%;
+    margin-top: 4%;
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+

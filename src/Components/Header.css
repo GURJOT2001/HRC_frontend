@@ -1,0 +1,26 @@
+.Header{
+    height: 100%;
+    position: absolute;
+    left:0;
+    top: 0;
+    width: 100%;
+    background: #58687E; 
+}
+.Container{
+    display: flex;
+
+}
+.ABCLogo{
+    margin: 10px 10px 10px 20px;
+}
+.HRCLogo{
+    position: center;
+    margin: -65px 0 0 10px;
+}
+.back{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 3%;
+    background-color:  #39495E;
+}

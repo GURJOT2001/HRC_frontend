@@ -1,0 +1,13 @@
+.Footercon{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    align-items: center;
+    margin-left: 35%;
+}
+
+.con{
+    font-size: small;
+    color: white;
+    font-weight:normal;
+}

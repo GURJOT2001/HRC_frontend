@@ -1,0 +1,14 @@
+.piechart{
+    width: 30vmax;
+    margin: auto;
+}
+.headview{
+    font-size: x-large;
+    color: black;
+    margin: -2.5% 0 2% 1%;
+    text-align: center;
+}
+.barchart{
+    width: 50vmax;
+    margin: auto;
+}
